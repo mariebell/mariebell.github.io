@@ -25,9 +25,11 @@ Frontend / Server-Side Developer
 #### ポジション別
 |  役割  |  詳細  |
 | ---- | ---- |
-|  FE  |  HTML<br />CSS（Sass、CSS Module）<br />JavaScript（TypeScript、React、Next.js、jQuery）|
-|  BE  |  PHP（CakePHP、Laravel、WordPress）<br />Go（Goa）<br />DB（MySQL） |
+|  FE  |  HTML<br />CSS（Sass、CSS Module）<br />JavaScript（★TypeScript、★React、Next.js、Vue.js、Nuxt.js、jQuery）|
+|  BE  |  ★PHP（Laravel、CakePHP、WordPress）<br />Go（Goa）<br />Ruby（Ruby on Rails）<br />DB（MySQL） |
 |  Infra  |  Docker<br />AWS（S3、Amplify、CloudFront、EC2、ECS等） |
+
+★特に得意なスキル（経験3年以上）
 
 ### 保有資格
 |  取得年月  |  資格名  |
