@@ -47,7 +47,7 @@ $(function (event) {
       data = parseJson(data);
       console.log(data);
       $.ajax({
-        url: "https://yfl2fc9wb2.execute-api.ap-northeast-1.amazonaws.com/v2/send-email",
+        url: "https://yfl2fc9wb2.execute-api.ap-northeast-1.amazonaws.com/v1/send-email",
         type: "post",
         dataType: "json",
         contentType: "application/json",
